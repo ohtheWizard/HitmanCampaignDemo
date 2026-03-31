@@ -7,7 +7,7 @@
 	"frameworkVersion": "2.33.35",
 	"version": "0.2.0",
 	"blobsFolders": ["blobs"],
-	"contentFolders": ["shared"],
+	"contentFolders": ["shared", "bank"],
 	"dependencies": [],
 	"packagedefinition": [
 		{

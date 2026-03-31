@@ -1,0 +1,34 @@
+{
+	"Data": {
+		"EnableSaving": true,
+		"Objectives": [],
+		"GameDifficulties": [
+			{ "Difficulty": "easy", "Bricks": [] },
+			{ "Difficulty": "normal", "Bricks": [] },
+			{ "Difficulty": "hard", "Bricks": [] }
+		],
+		"Bricks": [],
+		"DevOnlyBricks": [],
+		"Entrances": ["8e2bdc62-905d-43c1-8d91-3dceb8506a77"],
+		"GameChangers": [],
+		"GameChangerReferences": []
+	},
+	"Metadata": {
+		"Id": "15e773a5-f0dc-4d74-a429-ededad0f2be7",
+		"IsPublished": true,
+		"Title": "UI_BANK_TITLE",
+		"Description": "UI_BANK_DESC",
+		"CodeName_Hint": "New York",
+		"ScenePath": "assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity",
+		"TileImage": "images/campaign_demo/bank/tile.jpg",
+		"Location": "LOCATION_GREEDY_RACCOON",
+		"LastUpdate": "2025-05-02T19:44:00.000Z",
+		"CreationTimestamp": "2025-05-02T19:44:00.000Z",
+		"CreatorUserId": "39ffdd99-9a5a-4d32-ac50-c1cd4f2d5b87",
+		"Type": "mission",
+		"Release": "3.0.0",
+		"Entitlements": ["H2_LEGACY_EXPANSION"]
+	},
+	"UserData": {},
+	"SMF": {}
+}
