@@ -1,0 +1,25 @@
+{
+	"file": "0093B70B9E704CE0",
+	"type": "JSON",
+	"patch": [
+		{
+			"op": "add",
+			"path": "/0",
+			"value": {
+				"Name": "UI_HITMAN_CAMPAIGN_DEMO",
+				"Image": "",
+				"Type": "mission",
+				"Properties": {
+					"BackgroundImage": "images/campaign_demo/campaign_demo_tile.jpg"
+				},
+				"StoryData": [
+					{
+						"Type": "Mission",
+						"Id": "15e773a5-f0dc-4d74-a429-ededad0f2be7",
+						"_comment": "The bank mission for the Hitman Campaign Demo"
+					}
+				]
+			}
+		}
+	]
+}
